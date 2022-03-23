@@ -17,7 +17,7 @@ jobs:
         with:
           dotnet-version: "5.0.x"
       - name: Restore dependancies 
-        run: dotnet restore ../../CI_CD Test/CI_CD Test.csproj
+        run: dotnet restore ../../CI_CDTest/CI_CDTest.csproj
       
       - name: build the project
         run: dotnet build -c Release --no-restore
