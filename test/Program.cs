@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CI_CD_Test
+namespace test
 {
     public class Program
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace CI_CD_Test
+namespace test
 {
     public class WeatherForecast
     {
